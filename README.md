@@ -3,7 +3,7 @@ Hello Reader,
 
 My Name is Haaris Ajmeri
 
-WELCOME To my College Files Repsoitory that includes all 8 semester aka 4 years Files of My B.Tech IT in BHAGWAN MAHAVIR UNIVERSITY. which includes assignments, Practicals, Syllabus and maybe other stuff that can be useful for study. Now keep in My mind these files are based on my college BHAGWAN MAHAVIR UNIVERSITY so things maybe different but hopefully it helps. This Repository is for EVERYONE so feel free to use and share to your friends and anyone in need.
+WELCOME To my College Files Repsoitory that includes collection of all my 8 semesters aka 4 years Files of My B.Tech IT in BHAGWAN MAHAVIR UNIVERSITY 2021 - 2025. which includes assignments, Practicals, Syllabus and maybe other stuff that can be useful for study. Now keep in My mind these files are based on my 2021 to 2025 B.tech Batch of BHAGWAN MAHAVIR UNIVERSITY so things maybe different because of the later year admission of B.Tech IT may have more updated and different course plan than mine but hopefully the things that does matach helps. This Repository is for EVERYONE so feel free to use and share to your friends and anyone in need.
 
 This repository is not represent itself a definitive resource or "TOTALLY HELPFUL".
 
